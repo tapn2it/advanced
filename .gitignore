@@ -1,0 +1,14 @@
+# intellij IDEA
+.idea
+*.iml
+
+#other
+bin
+classes
+lib
+releases
+target
+*.jar
+.DS_Store
+.lein-*
+.repl-*
